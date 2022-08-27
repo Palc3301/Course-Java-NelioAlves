@@ -3,7 +3,7 @@ package aula46.exer01;
 public class Cilindro extends Figura3D{
     private int altura;
     private double raio;
-    
+
     public int getAltura() {
         return altura;
     }
