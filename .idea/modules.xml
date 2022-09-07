@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/loiane-curso-java-basico.iml" filepath="$PROJECT_DIR$/loiane-curso-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loiane-java-curso-intermediario/loiane-java-curso-intermediario.iml" filepath="$PROJECT_DIR$/loiane-java-curso-intermediario/loiane-java-curso-intermediario.iml" />
     </modules>
   </component>
 </project>
